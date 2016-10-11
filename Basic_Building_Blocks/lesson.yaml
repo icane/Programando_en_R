@@ -96,7 +96,7 @@
   Output: Primero, R ha multiplicado cada uno de los tres elementos de z por 2. Luego le ha sumado 100 a cada elemento para obtener el resultado que ves arriba.
 
 - Class: text
-  Output: Otros operadores aritméticos comunes son: `+`, `-`, `/`, y `^` (donde x^2
+  Output: Otros operadores aritméticos comunes son `+`, `-`, `/`, y `^` (donde x^2
     significa 'x al cuadrado'). Para sacar una raíz cuadrada, usa la función sqrt() y para sacar el valor absoluto, la función abs().
 
 - Class: cmd_question
