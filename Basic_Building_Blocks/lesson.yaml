@@ -108,9 +108,9 @@
 - Class: mult_question
   Output: Antes de que veamos el contenido de la variable my_sqrt, ¿qué crees que contendrá)
   CorrectAnswer: un vector de longitud 3
-  AnswerChoices: un vector de longitud 3; un único númeo (es decir, un vector de longitud 1);
+  AnswerChoices: un vector de longitud 3; un único número (es decir, un vector de longitud 1);
     un vector de longitud 0 (es decir, un vector vacío)
-  AnswerTests: omnitest(correctVal='a vector of length 3')
+  AnswerTests: omnitest(correctVal='un vector de longitud 3')
   Hint: 'Piensa en cómo R ha manejado las otras operaciones ''vectorizadas'': elemento a elemento.'
 
 - Class: cmd_question
