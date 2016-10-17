@@ -34,9 +34,9 @@
 
 - Class: mult_question
   Output: Qué pinta crees que tendrá?
-  CorrectAnswer: un vector de 4 valores lógicos
+  CorrectAnswer: 'un vector de 4 valores lógicos'
   AnswerChoices: un vector de 4 valores lógicos; un único valor lógico
-  AnswerTests: omnitest(correctVal='a vector of 4 logical values')
+  AnswerTests: omnitest(correctVal='un vector de 4 valores lógicos')
   Hint: ¿Recuerdas nuestro tema de aritmética de vectores? R lleva a cabo muchas operaciones elemento a elemento. A estas operaciones las llamamos 'vectorizadas'.
 
 - Class: cmd_question
