@@ -17,7 +17,7 @@
 
 - Class: text
   Output: Los vectores lógicos pueden contener los valores TRUE, FALSE, and NA ('not available').
-    Estos valores se generan como resultado de 'condiciones' lógicas. Vamos a experimentar con algunas condiciones sencillas with some simple conditions.
+    Estos valores se generan como resultado de 'condiciones' lógicas. Vamos a experimentar con algunas condiciones sencillas.
 
 - Class: cmd_question
   Output: En primer lugar, creemos un vector numérico num_vect que contenga los valores 0.5, 55,
